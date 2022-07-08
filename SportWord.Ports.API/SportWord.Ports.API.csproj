@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SportWord.Adaptors.SQLServerDataAccess\SportWord.Adaptors.SQLServerDataAccess.csproj" />
+    <ProjectReference Include="..\SportWord.Core.Application\SportWord.Core.Application.csproj" />
+    <ProjectReference Include="..\SportWord.Core.Domain\SportWord.Core.Domain.csproj" />
+    <ProjectReference Include="..\SportWord.Core.Infraestructure\SportWord.Core.Infraestructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Content\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.8" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.14.0" />
+  </ItemGroup>
+
+
+</Project>

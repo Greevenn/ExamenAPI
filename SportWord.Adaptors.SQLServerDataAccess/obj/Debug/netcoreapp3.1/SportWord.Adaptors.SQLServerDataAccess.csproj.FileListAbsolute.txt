@@ -1,0 +1,16 @@
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.deps.json
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.runtimeconfig.json
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.runtimeconfig.dev.json
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.dll
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.pdb
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Core.Domain.dll
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\bin\Debug\netcoreapp3.1\SportWord.Core.Domain.pdb
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.csproj.AssemblyReference.cache
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.AssemblyInfoInputs.cache
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.AssemblyInfo.cs
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.csproj.CopyComplete
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.dll
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.pdb
+C:\Users\mo656\source\repos\SportWord\SportWord.Adaptors.SQLServerDataAccess\obj\Debug\netcoreapp3.1\SportWord.Adaptors.SQLServerDataAccess.genruntimeconfig.cache
